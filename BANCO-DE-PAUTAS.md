@@ -317,6 +317,148 @@ Ditas de passagem, ainda sem debate:
 
 ---
 
+## Quadros e fontes que alimentam o banco
+
+São rótulos de preparação, não blocos que precisam ser anunciados no ar. Cada um alimenta
+uma parte do modelo descrito em [MODELO-PODCAST.md](MODELO-PODCAST.md).
+
+### Cinema — filmes, diretores e gêneros
+
+Façam um rodízio entre três entradas:
+
+1. **Um filme específico** que os dois assistiram
+2. **Um diretor**, visto por pelo menos duas obras
+3. **Um gênero**, comparado por meio de pelo menos dois filmes de épocas, países ou públicos diferentes
+
+Comecem pelas pautas 1–3, 6, 18–20 e 23. O objetivo não é criar uma pauta nova toda semana:
+é testar as perguntas que já estão neste banco em objetos diferentes.
+
+Cada entrada deve chegar com **duas cenas ou escolhas formais concretas** e uma das perguntas
+já cadastradas neste banco. Assim o quadro não vira ficha técnica nem repete pauta com outro
+título.
+
+### Notícias e assuntos da semana
+
+Cada um leva um assunto; juntos, separam um terceiro como reserva. Em vez de resumir
+manchetes, escolham o caso que mais encosta no eixo do programa: alguém tentando caber num
+molde ou se recusando a caber.
+
+Registrem cada candidato assim:
+
+- **Fato e data:** o que aconteceu e quando
+- **Fontes e grau de confirmação:** usar fonte primária quando existir e reconferir antes de
+  gravar
+- **Tensão:** quem está tentando caber em qual molde
+- **Divergência real ou perguntas em aberto:** sem fabricar lados opostos
+- **Pergunta durável:** o que ainda será interessante quando a notícia envelhecer
+
+Não tratem alegação não verificada como fato. Se a conversa render, guardem no banco a
+pergunta durável — não a manchete.
+
+### Saúde mental — dramas pessoais
+
+Cada apresentador traz uma situação real que escolheu elaborar e cujos limites definiu antes
+da gravação. A conversa passa por três camadas: **o que aconteceu, como aquilo foi vivido e
+qual padrão social apareceu por trás.**
+
+Comecem pelas pautas 4, 11–14 e 17. Falem em primeira pessoa, não diagnostiquem terceiros e
+não tratem experiência como conselho clínico. Não contem histórias alheias identificáveis sem
+consentimento; trocar nomes pode não bastar quando o contexto identifica a pessoa.
+
+Perguntas de entrada:
+
+- Qual situação pequena te desregulou esta semana?
+- Que conversa você está adiando?
+- Em que momento você fingiu estar bem para caber no ambiente?
+- Qual cobrança parece sua, mas veio de outra pessoa?
+
+### Falando com estranhos
+
+Levem à rua uma pergunta aberta ligada ao episódio e conversem com pessoas que tenham relações
+diferentes com o lugar. Usem as salvaguardas do **Método da saída**, abaixo. São falas breves
+para alimentar a conversa da dupla, não convidados. O objetivo não é confirmar a tese dos
+apresentadores: **a melhor fala é a que muda a pauta.**
+
+Sequência possível:
+
+1. O que mudou desde que você conhece este lugar?
+2. O que facilita ou dificulta sua rotina aqui?
+3. O que faria você querer permanecer ou sair?
+
+---
+
+## A cidade como fonte
+
+A regra para todas as saídas: **a rua não entra apenas como cenário; entra para desmentir ou
+complicar a pauta.** Um território por episódio, com tempo para observar antes de ligar o
+microfone. Cada saída define uma rua ou praça, uma faixa de horário e uma mudança observável.
+
+### República — O que faz alguém permanecer, trabalhar ou só passar?
+
+Buscar perspectivas de quem mora, trabalha e circula pela região, sem apresentar essas falas
+como retrato representativo de todo o território.
+
+- **Pergunta:** o que prende cada pessoa ao centro — e o que a empurra para fora?
+- **Ambiente como fonte:** moradia, comércio, espera, deslocamento, prédios e usos da praça
+- **Tensão do programa:** permanência, trabalho e passagem dividindo o mesmo espaço
+
+### Augusta — Como a rua muda entre o dia, a noite e os turnos de trabalho?
+
+Percorrer a região em horários diferentes e ouvir frequentadores e trabalhadores da noite.
+Comparar a imagem pública da Augusta com a rotina concreta de quem ocupa e sustenta o lugar.
+
+- **Pergunta:** o que muda para você quando muda o horário desta rua?
+- **Ambiente como fonte:** portas, filas, calçadas, trabalho noturno e mudança entre tarde e noite
+- **Tensão do programa:** lazer, imagem de liberdade e condições concretas de trabalho
+
+### Liberdade — O que o visitante vê e o cotidiano do bairro sustenta?
+
+Observar tanto o bairro vivido por moradores e trabalhadores quanto o bairro consumido por
+visitantes. Ouvir comerciantes, residentes e turistas sem transformar a cultura local em
+cenário exótico.
+
+- **Pergunta:** o que faz parte da rotina daqui e costuma ficar invisível para quem visita?
+- **Ambiente como fonte:** idioma, comida, comércio, memória, fluxo turístico e rotina
+- **Tensão do programa:** imagem turística e continuidade da vida cotidiana
+
+### Pinheiros — O que ficou mais fácil e mais difícil para permanecer aqui?
+
+Ouvir moradores antigos e novos, trabalhadores, comerciantes e vendedores de rua sobre custo,
+mudança e pertencimento.
+
+- **Pergunta:** qual mudança melhorou sua vida aqui e qual tornou a permanência mais difícil?
+- **Ambiente como fonte:** preços, fachadas, obras, ruídos, deslocamentos e permanências
+- **Tensão do programa:** transformação urbana, custo e pertencimento
+
+### Método da saída
+
+Antes:
+
+- escolher uma hipótese e uma pergunta que possa estar errada;
+- definir três tipos de relação com o lugar — por exemplo, quem mora, trabalha e visita;
+- recortar uma rua ou praça, uma faixa de horário e uma mudança que possa ser observada;
+- preparar a captação para que o ambiente apareça sem tornar as falas ininteligíveis;
+- em saída noturna, combinar equipe, deslocamento e pontos seguros de abordagem.
+
+Durante:
+
+- caminhar e observar antes de abordar alguém;
+- registrar um som e uma cena observada que possa ser narrada; se houver vídeo, registrar
+  também um detalhe visual;
+- não captar conversas privadas como som ambiente;
+- explicar o projeto, os canais e a possibilidade de edição; pedir autorização antes de
+  gravar e confirmar a autorização para publicar;
+- oferecer anonimato e não entrevistar menores sem responsável nem pessoas visivelmente
+  incapazes de consentir.
+
+Depois:
+
+- comparar a hipótese inicial com o que a rua contrariou;
+- levar a melhor pergunta de volta à mesa;
+- guardar neste banco o que ainda rende outro episódio.
+
+---
+
 ## Como usar
 
 **Para o objeto:** pautas 1, 2, 3, 6, 10, 18 — todas têm obra concreta para os dois
@@ -327,6 +469,14 @@ resposta certa e os dois com posição registrada.
 
 **Serve para qualquer objeto, então guarde como pergunta de reserva:** pauta 19 (obra velha,
 régua nova) e pauta 23 (o esquisito como piada).
+
+**Para o assunto da semana:** use o registro de fato e data, fontes e grau de confirmação,
+tensão, divergência real ou perguntas em aberto, e pergunta durável. A manchete abre a
+conversa; só a pergunta entra de vez no banco.
+
+**Para uma saída de rua:** escolha um dos quatro territórios acima e deixe a conversa com
+estranhos substituir ou alimentar A Pergunta. Não empilhe passeio, objeto longo e duas pautas
+no mesmo episódio.
 
 **Sequência sugerida para os seis primeiros episódios**, escolhida para testar cada peça nova
 do formato uma por vez, sem empilhar duas novidades no mesmo episódio:

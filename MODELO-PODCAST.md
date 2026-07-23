@@ -4,6 +4,9 @@
 > Os timestamps são a justificativa de cada decisão. Diagnóstico completo em [ANALISE.md](ANALISE.md).
 >
 > Timestamps no formato `[P1 mm:ss]` e `[P2 mm:ss]`, em minutos corridos de cada arquivo.
+>
+> As expansões de conteúdo e de rua acrescentadas ao modelo são **propostas de teste**.
+> Quando uma orientação não tem timestamp, ela não é uma conclusão tirada dos pilotos.
 
 ---
 
@@ -147,9 +150,20 @@ Essa última parte é a que faz diferença, e é a única coisa que precisa acon
 frases mostram, sem anunciar, que vocês estão em lugares diferentes. Servem de abertura de
 corte também, mas isso é consequência, não motivo.
 
+Depois dessas duas frases, **a conversa continua livre dentro do episódio**; ela não ganha um
+bloco separado. O começo só dá chão e não determina cada desvio. O objeto é a primeira âncora,
+mas um caso da semana, uma coisa vista no caminho ou o próprio lugar podem atravessar a
+discussão. Se vier o vazio que matou a abertura do piloto, sigam no objeto — sem anunciar a
+troca.
+
 ### O Objeto · ~20 min
 
 Um filme, disco, livro, série ou vídeo que **os dois consumiram de verdade.**
+
+Quando o objeto for cinema, alternem a porta de entrada: **um filme específico, um diretor
+discutido a partir de duas obras ou um gênero comparado por meio de dois filmes concretos.**
+Gênero, direção e contexto não entram como ficha técnica; entram para descobrir qual molde a
+obra reproduz, quem ela deixa de fora e onde o autor se recusa a caber.
 
 Vocês já inventaram esse bloco ("o filme da semana", `[P1 00:50]`). A mudança é uma só, e é
 inegociável: **os dois assistem.** O bloco do Zé do Caixão rendeu 35 minutos com nenhum dos
@@ -165,6 +179,11 @@ fazendo um personagem baixinho.*
 
 Um dos dois traz uma pergunta que o outro **não conhece de antemão**. Alterna a cada episódio.
 
+A pergunta pode nascer de uma **notícia ou assunto da semana**. Entra um caso concreto, com
+fato, data e fontes conferidos, não um giro de manchetes. Alegação não verificada não entra
+como fato. A notícia só vale quando revela a tensão do programa e deixa uma pergunta que
+continue interessante depois que a semana acabar.
+
 Esse é o formato da Parte 2, e não é coincidência que ela tenha sido a parte mais focada do
 material. A pergunta do André abriu 20 minutos de discussão direta:
 
@@ -179,6 +198,10 @@ Três critérios para a pergunta funcionar, todos observáveis no piloto:
 
 Cada um conta **uma coisa da semana em que se mediu contra um padrão impossível.** Curto,
 pessoal, sem resolver.
+
+É aqui que entram **saúde mental e dramas pessoais**: como experiência vivida, não como
+diagnóstico do outro nem conselho clínico. Falem em primeira pessoa e retirem detalhes que
+identifiquem quem não consentiu em ser identificado.
 
 É também o pedaço mais low vibe do programa por natureza: ninguém conta isso apressado, e é
 o único momento em que o silêncio depois da fala do outro é obrigatório.
@@ -228,6 +251,12 @@ Vocês já acertaram isso no reflexo, sem combinar:
 
 > `[P1 43:12]` *"Galera, pra quem só tão ouvindo — não é que a gente tá num bar, a gente tá na calçada, e aí sempre aparece alguém tentando vender alguma coisa."*
 
+Às vezes vocês podem fazer o movimento inverso e ir até a rua: **uma pergunta curta para um
+desconhecido, ligada ao assunto da noite**. Não é enquete nem busca por uma resposta que
+confirme a tese. Se a conversa surgir naturalmente, acompanhem por alguns minutos; se não,
+agradeçam e voltem para a mesa. Expliquem o projeto e peçam autorização para gravar e
+publicar. Essas vozes são matéria breve para a dupla discutir, não convidados do episódio.
+
 Isso é o que separa "papo de bar" de "dois caras num estúdio fingindo estar num bar". É a
 sua vantagem competitiva, é impossível de imitar em estúdio, e é **a coisa mais low vibe que
 existe no material de vocês** — a única em que o programa deixa o mundo entrar em vez de se
@@ -260,6 +289,11 @@ escrito — e ele não é.
 interessa (*"você concorda com essa ideia?"* `[P1 33:56]`), mas os assuntos do piloto nunca
 fecham — são interrompidos por *"qual que é o próximo tópico"* `[P1 36:44]`. Uma frase de cada
 um encerra sem exigir conclusão. "Nada" é resposta válida.
+
+**O lugar também pauta.** Antes de gravar, cada um anota uma coisa que viu, uma frase que
+ouviu e uma pergunta que o ambiente levantou. Uma delas pode entrar na conversa; as outras
+vão para o [banco de pautas](BANCO-DE-PAUTAS.md). A rua não é só cenário: ela serve para
+desmentir ou complicar a hipótese que vocês levaram.
 
 ---
 
@@ -298,10 +332,16 @@ coerente com um programa chamado *Sem Autoestima*.
 
 Três decisões, todas tiradas dos dados:
 
-**Um bar só, sem mudança no meio.** A troca custou os minutos mais fracos das duas gravações —
-a Parte 2 abre com 92 palavras/min, o valor mais baixo de todo o material, e a janela ainda
-inclui 26,7s de teste de microfone. O tempo foi gasto em *"Tira agora"*, *"Começou?"*, *"Como
-é que a gente volta?"*.
+**Um local-base só, sem mudança no meio.** A troca custou os minutos mais fracos das duas
+gravações — a Parte 2 abre com 92 palavras/min, o valor mais baixo de todo o material, e a
+janela ainda inclui 26,7s de teste de microfone. O tempo foi gasto em *"Tira agora"*,
+*"Começou?"*, *"Como é que a gente volta?"*.
+
+**Proposta de circulação, a testar:** o endereço pode mudar entre episódios. **República,
+Augusta, Liberdade e Pinheiros** são os primeiros territórios. Em cada saída, levem uma
+pergunta e, quando surgir naturalmente, conversem com pessoas que tenham relações diferentes
+com o lugar. Um recorte e um local-base por episódio; andar e observar faz parte, trocar toda
+a operação de lugar no meio não.
 
 **Começar mais cedo — por volta das 20h.** Vocês começaram 22:22 e aos 43 minutos já havia
 *"eu tô muito bêbado"* `[P1 43:32]`, repetido em `[P1 47:23]`. A Parte 2, à 1h da manhã,
@@ -322,7 +362,7 @@ Quando o assunto morrer, em ordem:
 
 1. **Pergunta direta ao outro.** Já é hábito de vocês e funciona: *"tem mais algo a comentar sobre esse?"* `[P1 13:58]`, *"você concorda com essa ideia?"* `[P1 33:56]`, *"faz sentido?"* `[P2 03:51]`
 2. **Caso concreto.** As melhores viradas do piloto vieram de exemplo específico, não de teoria: a família da coxinha `[P1 11:32]`, Whindersson `[P1 39:30]`, o dorama da namorada do André `[P1 54:35]`
-3. **Inverter o lado.** Quem estava defendendo passa a atacar. Reabre a discussão na hora
+3. **Descer ao motivo.** Se vocês concordaram na conclusão, perguntem por quê até encontrar onde os motivos divergem de verdade
 4. **Nova rodada = novo assunto.** Ritual físico marcando a virada, resolve o *"qual que é o próximo tópico"* `[P1 36:44]`
 
 ---
@@ -355,8 +395,9 @@ distorção que já está gravada e não sai.
 
 ### Pense agora, executa depois
 
-- **A calçada é um cenário bom.** Movimento de rua atrás de vocês, mesa, copo. Não troque isso
-  por estúdio — é justamente o que ninguém consegue copiar
+- **A calçada é cenário e fonte.** Movimento de rua atrás de vocês, mesa, copo, encontros e
+  histórias que não existiriam no estúdio. Não troque isso por fundo neutro — é justamente o
+  que ninguém consegue copiar
 - **Vocês já sentam lado a lado**, o que dá um plano de dois naturalmente
 - **O "tá ligado" vira o problema nº 1 em vídeo.** 116 vezes em 87 minutos. No áudio passa
   despercebido; com o rosto na tela, é a única coisa que a pessoa escuta. Não elimine — só
@@ -368,19 +409,22 @@ distorção que já está gravada e não sai.
 ## Resumo em uma tela
 
 ```
-COMEÇO         ~2 min   onde estamos + a pergunta da noite em 1 frase cada
-O OBJETO      ~20 min   filme/disco/livro que OS DOIS consumiram
-A PERGUNTA    ~20 min   um traz, o outro não sabe qual é
-A RÉGUA        ~5 min   onde me cobrei um padrão impossível esta semana
+COMEÇO         ~2 min   onde estamos + a pergunta em 1 frase cada
+O OBJETO      ~20 min   obra concreta; no cinema: filme, diretor ou gênero
+A PERGUNTA    ~20 min   um traz; pode nascer do assunto da semana
+A RÉGUA        ~5 min   drama pessoal: onde me cobrei um padrão impossível
 E ACABOU       ~2 min   sempre igual
               -------
-              ~55 min   um bar só · começar às 20h · teto de 60 min
+              ~55 min   um local-base · começar às 20h · teto de 60 min
 
               (isto é preparação. nada disso se anuncia no ar.)
 
 TOM       low vibe: ouvir mais, correr menos, não anunciar o programa
 ALVO      ~150 palavras/min e mais pausa   (piloto: 176 · P2 já foi 143)
+FLUXO     conversa livre dentro e entre as âncoras, sem bloco separado
+LOCAL     o bairro pode mudar entre episódios; um recorte por saída
 COM NOME  "não vale porra nenhuma" · "o bar entra"
+NA RUA    ambiente como fonte · desconhecidos só com autorização
 NO LUGAR DE DISCORDAR DE MENTIRA
           "por que você acha isso?" até achar onde vocês divergem de verdade
 ```
