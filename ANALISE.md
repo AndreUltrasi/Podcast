@@ -1,5 +1,36 @@
 # Análise dos pilotos — Áudio Sem Autoestima
 
+## Leitura de dois minutos
+
+Este documento é a **fonte histórica e probatória** dos dois arquivos-piloto. Ele registra o
+que foi ouvido, medido e inferido; quando uma conclusão é apenas editorial ou não pode ser
+demonstrada pela gravação, isso está indicado. Para transformar os achados em prática, use o
+[guia de campo](MODELO-PODCAST.md). Para escolher e preparar assuntos, consulte o
+[banco de pautas](BANCO-DE-PAUTAS.md).
+
+**Material analisado:** duas partes de uma mesma gravação, feitas em 18 e 19 de julho de
+2026: `18-07-2026 22.22(2).m4a`, com 61min 09s, e `19-07-2026 01.03.m4a`, com 26min 01s.
+A transcrição integral em `transcricoes/` foi produzida localmente com Whisper large-v3; as
+métricas de captação foram medidas diretamente nos arquivos com `analise_audio.py`.
+
+### Cinco achados principais
+
+| O que aconteceu | Evidência | Implicação |
+|---|---|---|
+| A conversa se sustentou no primeiro piloto. | Na Parte 1, 87% do arquivo contém fala, com 176 palavras/min e só 1min 02s de pausas acima de 3s. | O problema demonstrado não é falta de conteúdo nem de química; é estrutura. |
+| A segunda parte chegou mais perto do ritmo desejado. | A mediana das janelas de 2 min é 143 palavras/min; ela tem 78% de fala e 1,61s de pausa longa por minuto no miolo, ficando 19% mais lenta e com ~60% mais pausa que a Parte 1. | O exemplo de ritmo mais próximo do *low vibe* já está gravado, embora a troca de bar tenha prejudicado a abertura. |
+| Assuntos diferentes convergiram para um mesmo eixo. | Zé do Caixão, régua alta, Whindersson Nunes, autismo, anime, cinema brasileiro e relações voltam à distância entre identidade e exigência social. | O nome *Sem Autoestima* já conversa com um território editorial demonstrado pelo piloto. |
+| Os apresentadores ocupam posições complementares. | Gabriel julga a realização; André procura significado, com discordância real sobre o mesmo objeto. | A tensão entre “o que a coisa é” e “o que ela significa” sustenta conversa sem exigir oposição artificial. |
+| Processo e captação limitaram o material. | A abertura livre morreu em 90s; nenhum dos dois lembrava bem o filme; a madrugada trouxe cansaço; os arquivos têm mono duplicado, picos acima de 0 dBFS e 49.178/62.088 amostras clipadas. | Preparação mínima, um local-base, teto de duração e dois canais com ganho manual atacam falhas que já aparecem na gravação. |
+
+### Como usar esta análise
+
+- Leia **Método e material** para saber o que foi medido e o que não pode ser afirmado.
+- Leia **O que os pilotos provaram** para entender ritmo e eixo editorial.
+- Leia **Onde funciona** e **Onde perde força** para decidir o que repetir e o que mudar.
+- Leia **Diagnóstico técnico** antes de escolher o equipamento e o lugar da próxima gravação.
+- Volte a **Limitações metodológicas** antes de tratar qualquer inferência como fato.
+
 > Baseado na transcrição integral dos dois arquivos (`transcricoes/`), feita localmente com
 > Whisper large-v3. Toda afirmação aqui aponta para um timestamp. Onde eu não tenho certeza,
 > está escrito que não tenho.
@@ -8,7 +39,9 @@
 
 ---
 
-## 1. O que são esses arquivos
+## 1. Método e material
+
+### 1.1 O que são esses arquivos
 
 **Não são dois episódios. São um episódio só, em duas partes, com troca de bar no meio.**
 
@@ -28,7 +61,7 @@ E a Parte 1 termina exatamente onde a Parte 2 diz que terminou:
 | Local | Bar Vila Coqueiros, calçada da Frei Caneca | Karaokê perto da Praça Rússia, transversal da Augusta |
 | Início | 22:22 | 01:03 |
 | Palavras | 10.739 | 3.755 |
-| Densidade | 176 palavras/min | 144 palavras/min |
+| Densidade total (palavras ÷ duração) | 176 palavras/min | 144 palavras/min |
 | Fala / silêncio | 87% fala | 78% fala |
 | Tempo morto (pausas >3s) | 1min 02s no total | 1min 28s no total |
 
@@ -36,7 +69,7 @@ E a Parte 1 termina exatamente onde a Parte 2 diz que terminou:
 
 **Nome:** *"Áudio Sem Autoestima Podcast"* `[P1 00:04]`. Vale conferir a grafia — é transcrição
 de áudio e eu posso ter recebido errado. Seja como for, o nome conversa bem com o eixo
-editorial que vocês acharam sem perceber (seção 4).
+editorial que vocês acharam sem perceber (seção 2.3).
 
 **O filme:** *O Estranho Mundo de Zé do Caixão* (1968), de José Mojica Marins — três curtas
 numa antologia. Vocês nunca acertam o título no ar (`[P1 00:56]` *"O Mundo de Zé do Castelo.
@@ -46,9 +79,24 @@ curtas"* `[P1 02:13]`, o fabricante de bonecas cujos olhos são reais demais `[P
 `[P1 14:11]`, `[P1 15:45]` (**Tara**). Confere antes de publicar — mas se estiver certo, isso
 já é o primeiro "não vale porra nenhuma" do programa.
 
+### 1.2 Como a evidência foi tratada
+
+- Os timestamps apontam para minutos corridos de cada arquivo, não para episódios distintos.
+- Palavras por minuto, proporção de fala, pausas, pico, RMS, clipping e faixa dinâmica vêm da
+  transcrição ou da medição direta do áudio; os métodos e as ressalvas aparecem junto de cada
+  resultado.
+- A gravação mono não permite diarização confiável. Toda atribuição individual é feita por
+  cadeia de evidência e está marcada como tal.
+- Segmentos do Whisper não são turnos de conversa. A curva que confundia essas duas coisas
+  foi descartada, e a razão estatística está registrada na seção 2.2.
+- A identificação do filme é uma dedução pelo conteúdo. A leitura do melhor trecho e dos
+  papéis é juízo editorial, não resultado automático de uma métrica.
+
 ---
 
-## 2. O número mais importante deste documento — e a faca de dois gumes
+## 2. O que os pilotos provaram
+
+### 2.1 O número mais importante deste documento — e a faca de dois gumes
 
 **87% de fala — e só 1 minuto disso em pausas longas.**
 
@@ -70,7 +118,7 @@ As duas metades não são iguais, e a diferença é grande:
 
 | | Parte 1 (bar) | Parte 2 (karaokê) |
 |---|---|---|
-| Ritmo | 176 palavras/min | **143 palavras/min** |
+| Mediana por janela de 2 min | 176 palavras/min | **143 palavras/min** |
 | Proporção de fala | 87% | **78%** |
 | Pausa longa por minuto (miolo) | 1,02s | **1,61s** |
 
@@ -82,21 +130,21 @@ arquivo, não o primeiro.
 *(Os 3,38 s/min brutos da Parte 2 incluem o teste de microfone e a despedida — o número
 comparável é o do miolo, 1,61.)*
 
-→ Alvo de ritmo e o que fazer com isso em [MODELO-PODCAST.md](MODELO-PODCAST.md), seção "O tom".
+→ Alvo de ritmo e o que fazer com isso em [MODELO-PODCAST.md](MODELO-PODCAST.md), seção "A energia".
 
 E as poucas pausas longas que existem quase todas têm causa externa, não constrangimento:
 
 | Timestamp | Duração | O que era |
 |---|---|---|
 | `[P1 14:24]` | 25,8s | Alguém abordando vocês na calçada |
-| `[P1 55:36]` | 6,3s | Falha de áudio — o que vem depois sai ininteligível (ver §8) |
+| `[P1 55:36]` | 6,3s | Falha de áudio — o que vem depois sai ininteligível (ver §5) |
 | `[P1 47:14]` | 4,7s | Hesitação real ("mas..." / "sei lá") |
 | `[P1 36:09]` | 4,2s | Pausa de argumento |
 
 A de `[P1 55:36]` é a única que não é nem incidente nem hesitação: os 11 segmentos seguintes
 `[P1 55:43–56:00]` vêm com confiança despencada (logprob −2,37) e saem como *"umca"*, *"fi"*,
 *"um hp"*. Não é vocês travando — é a gravação falhando. É o mesmo trecho que interrompe a
-melhor ideia da noite (seção 6).
+melhor ideia da noite (seção 3.2).
 
 **Conclusão:** o problema de vocês não é conteúdo nem química. É estrutura. Isso é uma
 posição muito melhor de partida do que o contrário — dá para consertar estrutura, não dá
@@ -104,13 +152,13 @@ para fabricar química.
 
 ---
 
-## 3. O ritmo da conversa — e o que não dá para medir
+### 2.2 O ritmo da conversa — e o que não dá para medir
 
 O celular aplicou controle automático de ganho, o que achatou o volume — todos os blocos de
 5 min medem entre −11,4 e −12,1 dBFS. Então o volume não diz nada sobre energia.
 
 **E o que eu queria medir aqui, não dá.** O ideal seria a densidade de turnos: quantas vezes
-vocês trocam de voz por minuto. Só que a gravação é mono com microfone único (§8), então não
+vocês trocam de voz por minuto. Só que a gravação é mono com microfone único (§5), então não
 existe diarização — não há como saber quem falou. Qualquer curva de "turnos" neste material é
 inventada, e eu voltei atrás de uma que estava aqui: contar segmentos do Whisper parecia
 funcionar, mas o Whisper muda a granularidade do corte sozinho no meio do arquivo, e a
@@ -151,7 +199,7 @@ Na Parte 2 a curva diz algo que a da Parte 1 não dizia: ela **abre com 92 palav
 mais baixo das duas gravações inteiras**, e fecha em 108 contra mediana de 143. A abertura é
 pura reorientação — *"Tira agora"*, *"Começou?"*, *"Como é que a gente volta?"* — e a janela
 ainda inclui os 26,7s de teste de microfone, o que é exatamente o custo da troca de bar sendo
-cobrado. O fim é cansaço, e vocês dizem isso no ar (§7.7).
+cobrado. O fim é cansaço, e vocês dizem isso no ar (§4.7).
 
 > **Nota de método.** A curva que estava aqui antes contava segmentos do Whisper e os chamava
 > de turnos. Não são: na Parte 1 o Whisper corta a ~6 palavras por segmento até o minuto 22,
@@ -162,7 +210,7 @@ cobrado. O fim é cansaço, e vocês dizem isso no ar (§7.7).
 
 ---
 
-## 4. O eixo editorial que vocês acharam sem perceber
+### 2.3 O eixo editorial que vocês acharam sem perceber
 
 Este é o achado principal da análise.
 
@@ -192,20 +240,28 @@ saber qual era o programa.
 
 ---
 
-## 5. Os papéis — e por que o par funciona
+## 3. Onde funciona
+
+| O que aconteceu | Evidência | Implicação |
+|---|---|---|
+| Os dois ocuparam papéis diferentes diante do mesmo objeto. | Gabriel cobrou execução; André defendeu significado e autenticidade. | A discordância nasce do modo de olhar, não de um papel inventado. |
+| A rua entrou no programa sem quebrá-lo. | Na abordagem da vendedora, vocês atenderam, explicaram o incidente e voltaram à conversa. | O ambiente pode gerar conteúdo quando é reconhecido no ar. |
+| Vulnerabilidade e deboche coexistiram. | André se assume autista e Gabriel responde com o teste do BuzzFeed. | Esse contraste já entrega o tom demonstrado pelo piloto. |
+
+### 3.1 Os papéis — e por que o par funciona
 
 **Confiança:** os papéis estão claros e sustentados por várias evidências. A atribuição
 linha a linha, não — é gravação mono, microfone único, com muita fala sobreposta. Onde eu
 digo "Gabriel" ou "André" abaixo, é por cadeia de evidência, não por reconhecimento de voz.
 
-### Gabriel — o cético do ofício
+#### Gabriel — o cético do ofício
 Julga a coisa em si. Quer saber se é bem feito.
 
 > `[P1 01:55]` *"Mas vendo esse filme, eu achei uma bosta. Uma bosta imensa."*
 > `[P1 24:55]` *"Eu não aprendo nada vendo esse curta. (...) Você não absorve nada substancial."*
 > `[P1 24:30]` *"Quando você vai fazer arte (...) você tem que fazer de um jeito que as pessoas se interessem em assistir. Eu não vou assistir seu filme de graça."*
 
-### André — o advogado do significado
+#### André — o advogado do significado
 Julga o que a coisa representa. Sobe para sociedade, essência, autenticidade.
 
 > `[P1 09:21]` *"Ele virou uma identidade, uma persona que tá ligada muito ao terror. Eu acho que isso é muito saudável."*
@@ -216,7 +272,7 @@ Julga o que a coisa representa. Sobe para sociedade, essência, autenticidade.
 oposição estrutural real: *o que a coisa É* contra *o que a coisa SIGNIFICA*. Essa tensão
 não se esgota, porque não tem resposta certa. Dá para rodar em cima dela por anos.
 
-### E tem uma ironia de personagem pronta
+#### E tem uma ironia de personagem pronta
 
 André sugeriu o filme `[P1 00:59]` e não assistiu direito — viu uma análise no YouTube e leu o
 roteiro depois `[P1 18:48]`. Gabriel assistiu e detestou. O programa inteiro começa com o cara
@@ -226,11 +282,12 @@ que indicou o filme defendendo um filme que ele não viu, contra o cara que viu.
 > `[P1 01:11]` *"Não vale porra nenhuma, cara. Você não vai saber falar isso de nada, entendeu?"*
 > `[P1 18:48]` *"Você tá repetindo o que você viu no vídeo de análise."*
 
-Isso é ouro de personagem. Não conserta — **transforma em quadro** (ver `MODELO-PODCAST.md`).
+Isso é ouro de personagem. Não conserta — **transforma em hábito natural** (ver
+`MODELO-PODCAST.md`).
 
 ---
 
-## 6. Momentos de ouro
+### 3.2 Momentos de ouro
 
 Trechos que já são conteúdo publicável do jeito que estão.
 
@@ -244,11 +301,29 @@ Trechos que já são conteúdo publicável do jeito que estão.
 | `[P2 16:24]` | *"É muito mais difícil pro homem chorar na frente de um amigo. Isso é um fato que não tem como você negar."* | Assunto sério, atingido de raspão, deixado para trás em 45s |
 | `[P2 23:33]` | *"A opinião da grande massa é fezes."* | Provocação real, com o outro discordando na hora |
 
+### O que repetir
+
+- Partir de um objeto concreto e deixar que ele abra assuntos maiores.
+- Sustentar a diferença entre execução e significado sem atribuir papéis artificiais.
+- Reconhecer no microfone o que acontece ao redor, como vocês fizeram com a abordagem na
+  calçada.
+- Deixar vulnerabilidade e deboche ocuparem o mesmo trecho, sem transformar um no antídoto
+  do outro.
+- Perseguir ideias próprias que surgem no desvio, como a tese do anime, e frases curtas que
+  condensam uma posição, como *"Amar gasta energia."*
+
 ---
 
-## 7. O que não funcionou
+## 4. Onde perde força
 
-### 7.1 A abertura falhou, e vocês disseram isso no ar
+| O que aconteceu | Evidência | Implicação |
+|---|---|---|
+| A conversa livre não encontrou partida. | Em 90 segundos, vocês abandonaram a abertura e recorreram ao filme. | O papo livre funciona depois que um ponto concreto aquece a conversa. |
+| O objeto foi preparado pela metade. | Os dois esqueceram trechos do filme e declararam não saber sua história. | O bloco rendeu apesar da preparação; não por causa dela. |
+| Concordância encerrou o raciocínio. | “Acho que sim” se repetiu cinco vezes em quatro segundos e mais três logo depois. | É preciso perguntar pelo motivo da concordância para continuar pensando junto. |
+| A mudança de lugar e a madrugada cobraram ritmo. | A Parte 2 começa em 92 palavras/min e termina quando vocês dizem estar bêbados e cansados. | A gravação precisa proteger começo, duração e energia. |
+
+### 4.1 A abertura falhou, e vocês disseram isso no ar
 
 O roteiro previa "conversa livre" primeiro, depois o filme `[P1 00:46]`. A conversa livre durou
 **90 segundos** antes de vocês desistirem:
@@ -260,7 +335,7 @@ A dúvida do Gabriel em `[P1 00:46]` estava certa. Papo livre não é ponto de p
 acontece **depois** que um objeto concreto esquenta a conversa. Vocês provaram isso na
 prática: o filme puxou 35 minutos, e desses 35 nasceu a melhor parte do episódio.
 
-### 7.2 Nenhum dos dois tinha visto o filme direito
+### 4.2 Nenhum dos dois tinha visto o filme direito
 
 Isso limitou o bloco o tempo todo:
 
@@ -271,7 +346,7 @@ Isso limitou o bloco o tempo todo:
 E ainda assim rendeu 35 minutos. É o argumento mais forte a favor do formato: **com
 preparação de verdade, esse bloco vira o melhor do programa.**
 
-### 7.3 "Tá ligado" — 116 vezes em 87 minutos
+### 4.3 "Tá ligado" — 116 vezes em 87 minutos
 
 Uma vez a cada 45 segundos. Somando "entendeu" (39×), "sei lá", "tipo" e "cara", boa parte
 do texto é enchimento. No áudio passa. **Em vídeo, com o rosto de vocês na tela, vira a
@@ -280,7 +355,7 @@ do texto é enchimento. No áudio passa. **Em vídeo, com o rosto de vocês na t
 Não é para eliminar — é vício de fala natural, e matar isso mata a naturalidade. É para
 derrubar de 116 para uns 30. Só ter consciência já resolve metade.
 
-### 7.4 O "é um dado" — o furo mais sério
+### 4.4 O "é um dado" — o furo mais sério
 
 O trecho sobre Japão e autismo `[P1 48:00–52:30]` circula por quatro minutos sem sair do lugar,
 porque a discussão inteira se apoia num número que ninguém tem:
@@ -289,10 +364,11 @@ porque a discussão inteira se apoia num número que ninguém tem:
 > `[P1 50:16]` *"Isso é verdade? É um fato?"* — *"Deve ser."* — *"É um dado."* — *"Eu não sei. Mas é um dado."*
 > `[P1 50:39]` *"É um dado aleatório."*
 
-Vocês perceberam ao vivo e mesmo assim seguiram. Quatro minutos de trilho falso. Solução
-proposta em `MODELO-PODCAST.md` — não é cortar, é virar quadro.
+Vocês perceberam ao vivo e mesmo assim seguiram. Quatro minutos de trilho falso. A solução
+proposta em `MODELO-PODCAST.md` não é cortar nem criar um quadro: é admitir “não sei”, anotar e
+seguir.
 
-### 7.5 Quando vocês concordam, a conversa para de andar
+### 4.5 Quando vocês concordam, a conversa para de andar
 
 Aqui não tenho número — tenho a transcrição, que é mais direta. Duas vezes, com um minuto de
 distância, a discussão simplesmente trava em concordância:
@@ -313,7 +389,7 @@ divergem no motivo quase sempre; o *"acho que sim"* é o que acontece quando nin
 o motivo. A saída é perguntar *por que você acha isso?*, não fingir o lado contrário. Tratado
 em [MODELO-PODCAST.md](MODELO-PODCAST.md).
 
-### 7.6 As viradas de assunto são sem cerimônia
+### 4.6 As viradas de assunto são sem cerimônia
 
 > `[P1 36:44]` *"Agora vamos falar. Qual que é o próximo tópico?"*
 > `[P2 25:05]` *"Então o próximo assunto, então."*
@@ -327,7 +403,7 @@ e só então improvisaram uma despedida:
 A despedida improvisada até é simpática. O problema é que ela nasce depois da pergunta ficar
 gravada.
 
-### 7.7 A madrugada cobrou
+### 4.7 A madrugada cobrou
 
 Os avisos estão todos gravados:
 
@@ -339,9 +415,26 @@ Os avisos estão todos gravados:
 A Parte 2 não acabou porque o assunto acabou — acabou porque vocês acabaram. O tema das
 relações estava vivo, com discordância aberta, quando encerrou.
 
+### O que mudar
+
+- Abrir com um ponto concreto, sem exigir que a conversa livre produza o próprio começo.
+- Quando filme, livro ou outra obra for o objeto central, fazer os dois chegarem com o objeto
+  consumido de verdade.
+- Reduzir os vícios de fala por consciência, sem tentar esterilizar a conversa.
+- Diante de um dado incerto, assumir a incerteza e não deixar uma afirmação sem base sustentar
+  quatro minutos de raciocínio.
+- Quando houver concordância, perguntar pelo motivo em vez de fingir discordância.
+- Preparar uma despedida fixa e evitar que a madrugada decida o encerramento.
+
 ---
 
-## 8. Diagnóstico técnico da gravação
+## 5. Diagnóstico técnico da gravação
+
+| O que aconteceu | Evidência | Implicação |
+|---|---|---|
+| O gravador achatou voz e ambiente. | A faixa dinâmica ficou em 12,6 dB na Parte 1 e 8,5 dB na Parte 2, com controle automático de ganho. | O ruído ficou perto da voz; edição posterior não recupera a separação perdida. |
+| Os dois arquivos cliparam. | Os picos chegaram a +0,7 e +1,0 dBFS, com 49.178 e 62.088 amostras clipadas. | A distorção já está impressa no arquivo. |
+| As vozes não podem ser tratadas separadamente. | O áudio é mono duplicado e a correlação L/R é 1,000000. | É preciso captar cada pessoa em seu próprio canal. |
 
 Medido direto no arquivo, com `analise_audio.py`.
 
@@ -362,7 +455,7 @@ equipamento.
 
 **Três problemas, em ordem de gravidade:**
 
-1. **Faixa dinâmica de 8–12 dB.** O ruído do bar está quase no mesmo volume da voz de
+1. **Faixa dinâmica de 8,5–12,6 dB.** O ruído do bar está quase no mesmo volume da voz de
    vocês. Esse é o teto de qualidade de tudo — nenhuma edição conserta. Note que a Parte 2
    está pior (8,5 dB): à 1h da manhã o bar estava mais cheio.
 2. **Está clipando.** Picos acima de 0 dBFS, ~50 a 62 mil amostras estouradas por arquivo.
@@ -376,9 +469,31 @@ em 15–20 dB).
 
 ---
 
-## 9. Resumo
+## 6. Limitações metodológicas
+
+Esta análise não transforma inferência em certeza. Os limites que precisam acompanhar seus
+achados são estes:
+
+- **Transcrição:** o Whisper large-v3 pode errar nomes e palavras. A grafia do nome do
+  programa e a identificação de *O Estranho Mundo de Zé do Caixão* precisam de confirmação.
+- **Vozes:** o microfone único e o mono duplicado impedem diarização. As atribuições a Gabriel
+  e André são sustentadas por contexto, não por reconhecimento de voz.
+- **Energia:** o controle automático de ganho mantém os blocos de 5 min entre −11,4 e
+  −12,1 dBFS. Volume, portanto, não serve como medida de energia neste material.
+- **Turnos:** a segmentação do Whisper muda durante o arquivo. Contar segmentos mede a
+  transcrição, não a alternância entre apresentadores; por isso essa curva foi retirada.
+- **Faixa dinâmica:** p90−p10 funciona aqui para comparar as partes e demonstrar um problema,
+  mas não é uma medição real de sinal/ruído e não especifica equipamento.
+- **Juízo editorial:** chamar o trecho entre 30 e 43 minutos de melhor parte é uma leitura
+  humana. As janelas de 202 ppm não a contradizem, mas também não a provam sozinhas.
+- **Escopo:** há um único piloto, dividido em dois arquivos e gravado na mesma noite. Os
+  resultados descrevem este material; não demonstram sozinhos como o programa se comportará
+  em outras pautas, lugares ou estados de sobriedade.
+
+### Fechamento probatório
 
 **O que vocês já têm, e é a parte difícil:**
+
 - Química real, medida: 87% de fala e só 1 minuto de pausa longa, em um primeiro episódio
 - Uma oposição de papéis que se sustenta sozinha e não se esgota
 - Um eixo editorial coerente, que vocês encontraram sem procurar
@@ -386,8 +501,9 @@ em 15–20 dB).
 - Um nome que já combina com o programa
 
 **O que falta, e é a parte fácil:**
-- Começo e fim sempre iguais (hoje são improvisados, e falham)
-- Preparação mínima do objeto — os dois consumirem de verdade
+
+- Começo e fim sempre iguais (nos pilotos são improvisados, e falham)
+- Quando houver objeto central, preparação mínima — os dois consumirem de verdade
 - Um jeito de não desabar em concordância — descer ao motivo, não fingir o lado contrário
 - Ritmo: baixar dos 176 palavras/min e deixar o silêncio existir
 - Parar aos 60 minutos, num bar só, começando mais cedo
@@ -396,4 +512,5 @@ em 15–20 dB).
 Nada na lista de falta é sobre talento. É tudo processo.
 
 → Formato proposto em [MODELO-PODCAST.md](MODELO-PODCAST.md)
+
 → Pautas concretas em [BANCO-DE-PAUTAS.md](BANCO-DE-PAUTAS.md)
