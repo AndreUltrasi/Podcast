@@ -1,4 +1,4 @@
-# Análise do episódio 2 — Áudio Sem Autoestima
+# Análise do episódio 2 — Áudio de Baixa Autoestima
 
 > **Relatório de evolução.** Este documento mede o segundo episódio contra o que os pilotos
 > provaram ([ANALISE.md](ANALISE.md)) e contra os alvos do guia de campo
@@ -17,9 +17,10 @@
 ## Leitura de dois minutos
 
 **Material:** um episódio só, `podcast 2.m4a.mp4`, **76min 30s**, gravado numa pizzaria na
-Augusta `[E2 00:26]`. Apresentadores Gabriel e André, os mesmos. O nome se confirma: abriram
-como *"Baixa Autoestima"*, se corrigiram no ar — *"Áudio sem autoestima podcast. Eu errei."*
-`[E2 00:23]`. O objeto foi o filme ***Amor Sem Medidas*** (Leandro Hassum como um homem
+Augusta `[E2 00:26]`. Apresentadores Gabriel e André, os mesmos. O nome é
+***Áudio de Baixa Autoestima*** — foi assim que abriram (*"mais um episódio do Baixa Autoestima
+Podcast"* `[E2 00:17]`); logo depois trocaram por engano para *"áudio sem autoestima… eu errei"*
+`[E2 00:23]`, mas o nome certo é o primeiro. O objeto foi o filme ***Amor Sem Medidas*** (Leandro Hassum como um homem
 baixinho) — exatamente a semente que ficou escolhida no ar no fim do piloto `[P1 60:08]`.
 
 ### Cinco achados principais
@@ -84,7 +85,7 @@ Cada linha é um item do [MODELO-PODCAST.md](MODELO-PODCAST.md), com o veredito 
 | **Não desabar em "acho que sim"; descer ao motivo** | ✅ **Melhorou** | 17 ocorrências, mas **espalhadas** (as mais próximas a 24s), sem o estouro do `[P1 42:16]` (5× em 4s). E vocês perguntam o motivo: *"Cara, eu concordo em parte." — "Fale quais partes."* `[E2 52:37]`. |
 | **Um local-base, sem refazer a operação em outro lugar** | ✅ **Melhorou** | Ficaram na pizzaria/bar; cogitaram descer para o Parlapatões `[E2 49:44]` mas o núcleo não migrou. Sem o recomeço a 92 ppm do `[P2 00:00]`. |
 | **Teto de 60 minutos; encerrar com assunto vivo** | ❌ **Não aplicado** | 76min 30s. Houve um fim-falso — *"Vamos encerrar"* `[E2 59:29]` — e seguiram +17 min. O fim veio por sono, não por escolha: *"tá com sono, mano"* `[E2 76:00]`. |
-| **Despedida fixa** *("Isso foi Áudio Sem Autoestima. Até a próxima.")* | ❌ **Não aplicado** | A frase não aparece. Encerraram improvisando: *"Vamos encerrar? — Vamos. — Fecha aí, velho."* `[E2 76:09]`. Menos constrangido que o *"como é que encerra o podcast?"* `[P2 25:28]`, mas ainda improvisado. |
+| **Despedida fixa** *("Isso foi Áudio de Baixa Autoestima. Até a próxima.")* | ❌ **Não aplicado** | A frase não aparece. Encerraram improvisando: *"Vamos encerrar? — Vamos. — Fecha aí, velho."* `[E2 76:09]`. Menos constrangido que o *"como é que encerra o podcast?"* `[P2 25:28]`, mas ainda improvisado. |
 | **"Não sei é resposta"; não sustentar quatro minutos em dado incerto** | ✅ **Melhorou** | Na dúvida da grafia de *besouro*, conferiram na hora em vez de especular `[E2 61:10]`. Não houve o trilho falso de quatro minutos do *"é um dado"* `[P1 50:16]`. |
 | **Fazer a conexão em voz alta** | ⚠️ **Meio** | Acertaram um callback ao piloto — *"essa foi discutida no podcast passado, que a gente falou do Mojica"* `[E2 19:02]`. Mas **perderam** a conexão mais óbvia do episódio: a barata de Kafka `[E2 60:06]` é o eixo em estado puro e virou piada de pronúncia (§4). |
 | **Captação: 2 microfones, canais separados, ganho manual, sem clipping** | ⚠️ **Meio** | Ganho manual e níveis: resolvidos (§5). Dois microfones/canais: **não** — segue mono duplicado, um microfone só. |
@@ -138,7 +139,7 @@ por anos — rodou o episódio 2 inteiro.
 | `[E2 13:11–17:00]` | Superman × Batman × Hassum | Ideia própria, na veia do eixo, com os dois em posições diferentes sem briga fabricada. |
 | `[E2 16:47]` | *"Se ele fosse mais Leandro e menos Leandrinho"* | Uma frase que é a tese do programa inteiro, dita de passagem. Corte curto pronto. |
 | `[E2 08:38]` | *"Olhei pro meu pênis e falei: você tem potencial"* (dos pequenos frascos, os grandes perfumes) | Humor de bar cru e curto. Vídeo vertical autossuficiente. |
-| `[E2 51:53–54:11]` | A auto-análise: *"a gente começa a performar quando está gravando… as ideias não me alcançam quando a gente grava"* | Vulnerabilidade real sobre o próprio ofício. É *Sem Autoestima* aplicado a eles mesmos. |
+| `[E2 51:53–54:11]` | A auto-análise: *"a gente começa a performar quando está gravando… as ideias não me alcançam quando a gente grava"* | Vulnerabilidade real sobre o próprio ofício. É *Baixa Autoestima* aplicado a eles mesmos. |
 | `[E2 19:02]` | Callback ao piloto: *"isso foi discutido no podcast passado, quando a gente falou do Mojica"* | Começa a costurar uma continuidade entre episódios. |
 
 ---

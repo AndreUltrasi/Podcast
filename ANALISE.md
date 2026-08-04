@@ -1,4 +1,4 @@
-# Análise dos pilotos — Áudio Sem Autoestima
+# Análise dos pilotos — Áudio de Baixa Autoestima
 
 ## Leitura de dois minutos
 
@@ -19,7 +19,7 @@ métricas de captação foram medidas diretamente nos arquivos com `analise_audi
 |---|---|---|
 | A conversa se sustentou no primeiro piloto. | Na Parte 1, 87% do arquivo contém fala, com 176 palavras/min e só 1min 02s de pausas acima de 3s. | O problema demonstrado não é falta de conteúdo nem de química; é estrutura. |
 | A segunda parte chegou mais perto do ritmo desejado. | A mediana das janelas de 2 min é 143 palavras/min; ela tem 78% de fala e 1,61s de pausa longa por minuto no miolo, ficando 19% mais lenta e com ~60% mais pausa que a Parte 1. | O exemplo de ritmo mais próximo do *low vibe* já está gravado, embora a troca de bar tenha prejudicado a abertura. |
-| Assuntos diferentes convergiram para um mesmo eixo. | Zé do Caixão, régua alta, Whindersson Nunes, autismo, anime, cinema brasileiro e relações voltam à distância entre identidade e exigência social. | O nome *Sem Autoestima* já conversa com um território editorial demonstrado pelo piloto. |
+| Assuntos diferentes convergiram para um mesmo eixo. | Zé do Caixão, régua alta, Whindersson Nunes, autismo, anime, cinema brasileiro e relações voltam à distância entre identidade e exigência social. | O nome *Baixa Autoestima* já conversa com um território editorial demonstrado pelo piloto. |
 | Os apresentadores ocupam posições complementares. | Gabriel julga a realização; André procura significado, com discordância real sobre o mesmo objeto. | A tensão entre “o que a coisa é” e “o que ela significa” sustenta conversa sem exigir oposição artificial. |
 | Processo e captação limitaram o material. | A abertura livre morreu em 90s; nenhum dos dois lembrava bem o filme; a madrugada trouxe cansaço; os arquivos têm mono duplicado, picos acima de 0 dBFS e 49.178/62.088 amostras clipadas. | Preparação mínima, um local-base, teto de duração e dois canais com ganho manual atacam falhas que já aparecem na gravação. |
 
@@ -67,9 +67,10 @@ E a Parte 1 termina exatamente onde a Parte 2 diz que terminou:
 
 **Apresentadores:** Gabriel e André `[P1 00:09]`. Primeiro episódio, declarado no ar `[P1 00:17]`.
 
-**Nome:** *"Áudio Sem Autoestima Podcast"* `[P1 00:04]`. Vale conferir a grafia — é transcrição
-de áudio e eu posso ter recebido errado. Seja como for, o nome conversa bem com o eixo
-editorial que vocês acharam sem perceber (seção 2.3).
+**Nome:** ***Áudio de Baixa Autoestima*** (confirmado pelos apresentadores). No piloto a
+transcrição recebeu como *"Áudio Sem Autoestima Podcast"* `[P1 00:04]`, mas o nome certo é
+*Baixa Autoestima*. Seja como for, ele conversa bem com o eixo editorial que vocês acharam sem
+perceber (seção 2.3).
 
 **O filme:** *O Estranho Mundo de Zé do Caixão* (1968), de José Mojica Marins — três curtas
 numa antologia. Vocês nunca acertam o título no ar (`[P1 00:56]` *"O Mundo de Zé do Castelo.
@@ -235,7 +236,7 @@ nomear. Está tudo condensado numa frase do André sobre ele mesmo:
 
 > `[P1 47:45]` *"Eu acho que eu sou menos André do que eu gostaria de ser."*
 
-E o nome do podcast — *Sem Autoestima* — já aponta para lá. Vocês acertaram o nome antes de
+E o nome do podcast — *Baixa Autoestima* — já aponta para lá. Vocês acertaram o nome antes de
 saber qual era o programa.
 
 ---

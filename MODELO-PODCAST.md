@@ -1,4 +1,4 @@
-# Guia de campo — Áudio Sem Autoestima
+# Guia de campo — Áudio de Baixa Autoestima
 
 > Este é o guia vigente para preparar e gravar. Ele traduz os pilotos em decisões práticas;
 > não é um roteiro de locução.
@@ -229,7 +229,7 @@ O hábito nasce em `[P1 36:46–39:00]`:
 
 ### Erro e correção
 
-Começar admitindo um erro é uma proposta coerente com *Sem Autoestima*: o título do filme
+Começar admitindo um erro é uma proposta coerente com *Baixa Autoestima*: o título do filme
 `[P1 00:56]` e o número do Japão `[P1 50:10]` já oferecem exemplos. Quando ninguém souber o
 dado, não especulem por quatro minutos. Digam “não sei” e sigam.
 
